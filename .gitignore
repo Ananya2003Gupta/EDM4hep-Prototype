@@ -1,0 +1,3 @@
+edm4hep/*.h
+src
+podio_generated_files.cmake
